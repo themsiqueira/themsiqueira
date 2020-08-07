@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/themsiqueira/themsiqueira/master/gh-header-image-cropped.png" alt="presentention banner">
 
-## I'm a Student, Developer, Entrepreneur, and more!
+## I'm a Student, Developer and Entrepreneur!
 
-- 🔭 I’m currently working on AWS, NodeJs, Javascript and C#!
-- 🌱 I’m currently learning TypeScript, AWS and Web Dev!
-- 🥅 2020 Goals: Contribute more to the Community and change people's lives through technology!
-- ⚡ Fun fact: I always wanted to learn somersault
+- :computer: I’m currently working with AWS, NodeJs, Javascript and C#!
+- :neckbeard: I’m currently learning TypeScript, AWS and Web Dev!
+- :round_pushpin: 2020 Goals: Contribute more to the Community and change people's lives through technology!
+- :cyclone: Fun fact: I always wanted to learn somersault
 
 ### Languages and Tools:
 
